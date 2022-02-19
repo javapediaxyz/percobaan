@@ -11,9 +11,9 @@ A portfolio build by using flutter for web.
 ## How to Create and Deploy
 Follow the links below to learn more about how to create and deploy web applications in flutter.
 
-* Flutter For Web: [A Complete Guide to Create & Run a Web Application](https://medium.com/@zubairehman.work/flutter-for-web-c75011a41956)
+* Flutter For Web: [A Complete Guide to Create & Run a Web Application](https://javapedia.xyz/)
 
-* Flutter For Web: [A Complete Guide to Deploy a Web Application](https://medium.com/@zubairehman.work/flutter-for-web-a-complete-guide-to-deploy-a-web-application-3fa9463377a8)
+* Flutter For Web: [A Complete Guide to Deploy a Web Application](https://javapedia.xyz/)
 
 ## How to Use 
 
